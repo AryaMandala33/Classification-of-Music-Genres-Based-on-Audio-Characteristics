@@ -43,10 +43,10 @@ Aplikasi ini juga dilengkapi dashboard interaktif berbasis Streamlit sehingga pe
 
 💾 Dataset
 
-Judul : Music Genre Classification
-Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
-Tipe Data: Data tabular
-Dataset berisi karakteristik audio hasil ekstraksi lagu-lagu musik populer, dengan label genre sebagai target klasifikasi.
+-Judul : Music Genre Classification
+-Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
+-Tipe Data: Data tabular
+-Dataset berisi karakteristik audio hasil ekstraksi lagu-lagu musik populer, dengan label genre sebagai target klasifikasi.
 
 ---
 
