@@ -1,0 +1,63 @@
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #1e1e2f !important;
+}
+
+[data-testid="stSidebarNav"] span {
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
+}
+
+[data-testid="stSidebarNav"] li:hover {
+    background-color: #3d3d5c !important;
+    border-radius: 10px;
+}
+
+[data-testid="stSidebarNav"] svg {
+    width: 22px !important;
+    height: 22px !important;
+}
+
+/* Main background */
+.main {
+    background-color: #f5f7f9;
+}
+
+/* =========================
+   TYPOGRAPHY IMPROVEMENT
+   ========================= */
+
+/* Judul utama */
+h1 {
+    font-size: 2.4rem !important;
+    font-weight: 700;
+}
+
+/* Subjudul / Header */
+h2 {
+    font-size: 1.9rem !important;
+    font-weight: 6100;
+}
+
+h3 {
+    font-size: 1.5rem !important;
+    font-weight: 600;
+}
+
+/* Isi teks (markdown & paragraph) */
+p, li {
+    font-size: 1.5rem !important;
+    line-height: 1.7;
+}
+
+/* Info / alert box */
+[data-testid="stAlert"] {
+    font-size: 1.05rem;
+}
+
+/* Divider spacing */
+hr {
+    margin: 2rem 0;
+}
+
