@@ -43,10 +43,10 @@ Aplikasi ini juga dilengkapi dashboard interaktif berbasis Streamlit sehingga pe
 
 💾 Dataset
 
--Judul : Music Genre Classification
--Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
--Tipe Data: Data tabular
--Dataset berisi karakteristik audio hasil ekstraksi lagu-lagu musik populer, dengan label genre sebagai target klasifikasi.
+• Judul : Music Genre Classification
+• Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
+• Tipe Data: Data tabular
+• Dataset berisi karakteristik audio hasil ekstraksi lagu-lagu musik populer, dengan label genre sebagai target klasifikasi.
 
 ---
 
@@ -253,16 +253,16 @@ Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gu
 
 ### 💻Tampilan Website
 
-<h3 align="center">1. Page App</h3> <p align="center"> <img src="assets/Page-Main.png" width="80%"> </p>
+<h3 align="center">1. Page App</h3> <p align="center"> <img src="assets/Page Main.png" width="80%"> </p>
 
-<h3 align="center">2. Page MLP</h3> <p align="center"> <img src="assets/Page-MLP.png" width="80%"> </p>
+<h3 align="center">2. Page MLP</h3> <p align="center"> <img src="assets/Page MLP.png" width="80%"> </p>
 
-<h3 align="center">3. Page TabNet</h3> <p align="center"> <img src="assets/Page-TabNet.png" width="80%"> </p>
+<h3 align="center">3. Page TabNet</h3> <p align="center"> <img src="assets/Page TabNet.png" width="80%"> </p>
 
-<h3 align="center">4. Page Residual NN</h3> <p align="center"> <img src="assets/Page-Residual NN.png" width="80%"> </p>
+<h3 align="center">4. Page Residual NN</h3> <p align="center"> <img src="assets/Page Residual NN.png" width="80%"> </p>
 
-<h3 align="center">5. Page Penjelasan Model</h3> <p align="center"> <img src="assets/Page-Penjelasan Model.png" width="80%"> </p>
+<h3 align="center">5. Page Penjelasan Model</h3> <p align="center"> <img src="assets/Page Penjelasan Model.png" width="80%"> </p>
 
-<h3 align="center">6. Page Perbandigan Model</h3> <p align="center"> <img src="assets/Page-Perbandigan Model.png" width="80%"> </p>
+<h3 align="center">6. Page Perbandigan Model</h3> <p align="center"> <img src="assets/Page Perbandigan Model.png" width="80%"> </p>
 
 ---
