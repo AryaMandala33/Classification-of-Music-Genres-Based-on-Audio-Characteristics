@@ -7,12 +7,11 @@
 1. Deskripsi Proyek
 2. Tujuan Aplikasi
 3. Dataset
-4. Karakteristik Audio
-5. Data Preprocessing
-6. Arsitektur Pemodelan
-7. Hasil Evaluasi
-8. Langkah Instalasi & Penggunaan
-9. Tampilan Website
+4. Data Preprocessing
+5. Arsitektur Pemodelan
+6. Hasil Evaluasi
+7. Langkah Instalasi & Penggunaan
+8. Tampilan Website
 
 ---
 
@@ -47,28 +46,6 @@ Aplikasi ini juga dilengkapi dashboard interaktif berbasis Streamlit sehingga pe
 2. Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
 3. Tipe Data: Data tabular
 4. Dataset berisi karakteristik audio hasil ekstraksi lagu-lagu musik populer, dengan label genre sebagai target klasifikasi.
-
----
-
-## 🎧 Karakteristik Audio yang Digunakan
-Fitur audio yang digunakan sebagai input model antara lain:
-
-| Fitur | Deskripsi |
-|------|----------|
-| Popularity | Tingkat popularitas lagu |
-| Danceability | Kesesuaian lagu untuk menari |
-| Energy | Intensitas dan kekuatan lagu |
-| Loudness (dB) | Tingkat kekuatan suara |
-| Speechiness | Kandungan vokal/ucapan |
-| Acousticness | Tingkat akustik lagu |
-| Valence | Nuansa emosi (sedih ↔ ceria) |
-| Tempo (BPM) | Kecepatan lagu |
-| Key | Nada dasar musik |
-
-> ⚠️ **Catatan:**  
-> Aplikasi ini menggunakan **simulasi karakteristik audio**, bukan audio mentah (*raw waveform*).
-
----
 
 ## ⚙️ Preprocessing Data
 
