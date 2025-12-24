@@ -1,8 +1,8 @@
 <div align="center">
-🎵 CLASSIFICATION OF MUSIC GENRES BASED ON AUDIO CHARACTERISTICS
+### **🎵 CLASSIFICATION OF MUSIC GENRES BASED ON AUDIO CHARACTERISTICS**
 
 </div> <br>
-📑 Table of Contents
+### 📑 Table of Contents
 
 1. Deskripsi Proyek
 2. Tujuan Aplikasi
@@ -242,7 +242,7 @@ Proyek ini menggunakan PDM untuk manajemen dependensi yang lebih stabil. Jalanka
 pdm install
 ```
 
-4. Jalankan Aplikasi
+### 4. Jalankan Aplikasi
 Gunakan perintah pdm run untuk menjalankan aplikasi Streamlit di dalam lingkungan virtual PDM:
 ```bash
 pdm run streamlit run app.py
@@ -253,7 +253,7 @@ Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gu
 
 ### 💻Tampilan Website
 
-<h3 align="center">1. Page App</h3> <p align="center"> <img src="assets/Page Main.png" width="80%"> </p>
+<h3 align="center">1. Page App</h3> <p align="center"> <img src="assets/Page App.png" width="80%"> </p>
 
 <h3 align="center">2. Page MLP</h3> <p align="center"> <img src="assets/Page MLP.png" width="80%"> </p>
 
@@ -263,6 +263,6 @@ Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gu
 
 <h3 align="center">5. Page Penjelasan Model</h3> <p align="center"> <img src="assets/Page Penjelasan Model.png" width="80%"> </p>
 
-<h3 align="center">6. Page Perbandigan Model</h3> <p align="center"> <img src="assets/Page Perbandigan Model.png" width="80%"> </p>
+<h3 align="center">6. Page Perbandigan Model</h3> <p align="center"> <img src="assets/Page Perbandingan Model.png" width="80%"> </p>
 
 ---
