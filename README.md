@@ -12,6 +12,7 @@
 6. Hasil Evaluasi
 7. Langkah Instalasi & Penggunaan
 8. Tampilan Website
+9. BioData
 
 ---
 
@@ -40,7 +41,7 @@ Aplikasi ini juga dilengkapi dashboard interaktif berbasis Streamlit sehingga pe
 
 ---
 
-💾 Dataset
+## 💾 Dataset
 
 1. Judul : Music Genre Classification
 2. Sumber Dataset: [Kaggle](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
@@ -241,5 +242,12 @@ Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gu
 <h3 align="center">5. Page Penjelasan Model</h3> <p align="center"> <img src="assets/Page Penjelasan Model.png" width="80%"> </p>
 
 <h3 align="center">6. Page Perbandigan Model</h3> <p align="center"> <img src="assets/Page Perbandingan Model.png" width="80%"> </p>
+
+---
+
+## 🧑‍💻 BioData
+## Nama  : Arya Mandala Putra
+## Nim   : 202210370311183
+## Kelas : Pembelajaran Mesin B
 
 ---
