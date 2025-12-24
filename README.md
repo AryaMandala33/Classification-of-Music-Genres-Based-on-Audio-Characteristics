@@ -1,8 +1,8 @@
 <div align="center">
-### **🎵 CLASSIFICATION OF MUSIC GENRES BASED ON AUDIO CHARACTERISTICS**
+🎵 CLASSIFICATION OF MUSIC GENRES BASED ON AUDIO CHARACTERISTICS
 
 </div> <br>
-### 📑 Table of Contents
+📑 Table of Contents
 
 1. Deskripsi Proyek
 2. Tujuan Aplikasi
