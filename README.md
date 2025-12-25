@@ -13,6 +13,7 @@
 7. Langkah Instalasi & Penggunaan
 8. Tampilan Website
 9. BioData
+10. Deploy Dashboard
 
 ---
 
@@ -251,3 +252,10 @@ Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gu
 ## Kelas : Pembelajaran Mesin B
 
 ---
+
+Link Deploy https://classification-of-music-genres-based-on-audio-characteristics.streamlit.app/
+
+
+---
+
+
